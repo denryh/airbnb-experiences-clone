@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poitrew.github.io/airbnb-experiences-clone/static/css/main.0032624d.css",
+    "main.js": "/poitrew.github.io/airbnb-experiences-clone/static/js/main.8573872b.js",
+    "index.html": "/poitrew.github.io/airbnb-experiences-clone/index.html",
+    "main.0032624d.css.map": "/poitrew.github.io/airbnb-experiences-clone/static/css/main.0032624d.css.map",
+    "main.8573872b.js.map": "/poitrew.github.io/airbnb-experiences-clone/static/js/main.8573872b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0032624d.css",
+    "static/js/main.8573872b.js"
+  ]
+}
